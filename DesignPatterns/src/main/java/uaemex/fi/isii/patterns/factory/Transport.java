@@ -1,5 +1,5 @@
 package uaemex.fi.isii.patterns.factory;
 
-public interface Factory {
+public interface Transport {
     public void deliver();
 }
